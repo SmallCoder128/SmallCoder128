@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Calvin
+
+- I'm a Data Science and Computer Science major at Chaminade University of Honolulu
+- Currently working on my Geo-spatial Information certificate
+- Contact me at calvin.small@student.chaminade.edu
+
 
 <!--
 **SmallCoder128/SmallCoder128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
